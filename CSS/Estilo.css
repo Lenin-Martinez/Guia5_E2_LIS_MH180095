@@ -1,0 +1,25 @@
+body{
+    background-color: olive;
+}
+.tabla{
+    border-radius: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    text-align: center;
+}
+
+
+.titulo
+{   background-color: darkslategrey;
+    color: aliceblue;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+    margin-bottom: 2%;
+    margin-top: 1%;
+}
+.divTabla
+{
+    width: 50%;
+    margin-left: 25%;
+}
